@@ -14,7 +14,7 @@ import GeoJSON from 'ol/format/GeoJSON';
 import OSM from 'ol/source/OSM';
 
 export default {
-  name: 'Map',
+  name: 'Mapa1',
   mounted() {
     // Fuente de datos GeoJSON
     const vectorSource = new VectorSource({
