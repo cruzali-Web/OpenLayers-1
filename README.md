@@ -6,9 +6,7 @@
 		- https://github.com/openlayers/workshop/releases
 		- https://epsg.io/
 		
+	#### Proyecto: VueJS-OpenLayers-1
+		Proyecto usando VueJS 3 y OpenLayers
+		- Obtener GeoJson: https://overpass-turbo.eu
 		
-		
-		
-	
-	
-	

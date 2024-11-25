@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-11-25T03:14:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4768059428",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2041116,
+          19.0035065
+        ]
+      },
+      "id": "node/4768059428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4768059429",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2029651,
+          19.0039715
+        ]
+      },
+      "id": "node/4768059429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4768059430",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2015103,
+          18.9956065
+        ]
+      },
+      "id": "node/4768059430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4768059431",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1972194,
+          19.0010381
+        ]
+      },
+      "id": "node/4768059431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4768059432",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1949567,
+          18.9981726
+        ]
+      },
+      "id": "node/4768059432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4768059434",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1996541,
+          19.0028513
+        ]
+      },
+      "id": "node/4768059434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4768059435",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2017152,
+          19.0023078
+        ]
+      },
+      "id": "node/4768059435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5377406449",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2028792,
+          19.0021615
+        ]
+      },
+      "id": "node/5377406449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9231401617",
+        "amenity": "drinking_water",
+        "name": "Santa Isabel Cholula",
+        "name:es": "Letrero fijo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3727196,
+          18.9916983
+        ]
+      },
+      "id": "node/9231401617"
+    }
+  ]
+}
