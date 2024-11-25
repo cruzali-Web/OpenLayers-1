@@ -2,7 +2,10 @@
   <div>
     <nav>
       <RouterLink to="/">Home</RouterLink> |
-      <RouterLink to="/mapas/mapa1">Mapa 1</RouterLink>
+      <RouterLink to="/mapas/mapa1">Mapa 1 Points</RouterLink> |
+      <RouterLink to="/mapas/mapa2">Mapa 2 Points 2 Capas</RouterLink> |
+      <RouterLink to="/mapas/mapa3">Mapa 3 Poligonos</RouterLink>
+
     </nav>
     <RouterView />
   </div>

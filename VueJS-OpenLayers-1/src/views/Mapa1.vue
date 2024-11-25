@@ -54,7 +54,7 @@ export default {
 
 <style>
 .map {
-  width: 100vw;
-  height: 100vh;
+
+  height: 70vh;
 }
 </style>
